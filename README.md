@@ -17,3 +17,5 @@ with neural style transfer we can generate image
 
 ![Neural Style Transfer Output](stylized-image.png)
 
+### References
+- [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
