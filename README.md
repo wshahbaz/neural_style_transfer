@@ -15,5 +15,5 @@ Given as input content image and style reference image, respectively
 
 with neural style transfer we can generate image
 
-![Neural Style Transfer Output](https://github.com/wshahbaz/neural_style_transfer/stylized-image.png)
+![Neural Style Transfer Output](stylized-image.png)
 
