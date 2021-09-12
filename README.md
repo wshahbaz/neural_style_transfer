@@ -1,4 +1,4 @@
-# neural_style_transfer
+# Neural Style Transfer
 Neural Style Transfer model that combines a *content image* with a *style reference image* to yield artistic renders.
 
 The result was achieved by optimizing a Style Content Model. In this model we preprocess the input on a pretrained VGG19 model (trained on imagenet), 
