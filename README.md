@@ -2,7 +2,7 @@
 Neural Style Transfer model that combines a *content image* with a *style reference image* to yield artistic renders.
 
 The result was achieved by optimizing a Style Content Model. In this model we preprocess the input on a pretrained VGG19 model (trained on imagenet), 
-then extract the intermediate layer outputs to obtain weight activations learned from our content image, followed by computing the style-content loss and
+then extract the intermediate layer activations to obtain weight activations learned from our content image, followed by computing the style-content loss and
 updating our model weights to acheive a smoother combined image.
 
 ## Example
